@@ -71,7 +71,7 @@ Strong points:
 Areas for improvement (if any):
 [List what could be better]
 Detail of improvement (if any):
-[Evluate the Detail about the improvement, make sure user fully understand what they lack for]
+[Elaborate the Detail about the improvement, make sure user fully understand what they lack for]
 Additional context:
 [Provide deeper insights]
 Follow-up question (if needed):
